@@ -1,11 +1,11 @@
 const ContentSecurityPolicy = `
   default-src 'self';
-  script-src 'self' 'unsafe-eval' 'unsafe-inline' vitals.vercel-insights.com;
+  script-src 'self' 'unsafe-eval' 'unsafe-inline' vitals.vercel-insights.com static.cloudflareinsights.com;
   child-src 'self';
   style-src 'self' 'unsafe-inline';
   img-src * blob: data:;
   media-src 'none';
-  connect-src *;
+  connect-src 'self' cloudflareinsights.com;
   font-src 'self';
 `;
 
