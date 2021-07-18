@@ -3,7 +3,7 @@ import Layout from "../components/Layout";
 import Image from 'next/image'
 import security_advice from 'public/static/images/index/security_advice.png'
 
-export default function Index({ posts }) {
+export default function Index() {
   const title = 'Home'
   return (
     <>

@@ -7,6 +7,10 @@ export const Navbar = () => {
       label: "Home",
       href: "/",
     },
+    {
+      label: "Flight Sim Blog",
+      href: "https://fs.daveroverts.nl"
+    }
   ];
 
 
