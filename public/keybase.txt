@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/daveroverts
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://daveroverts.nl
+  * I am daveroverts (https://keybase.io/daveroverts) on keybase.
+  * I have a public key ASCKNrLnGdWAY_13ebie6fRPSVqmmm3wtGI0NC6WKQFGpgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208a36b2e719d58063fd7779b89ee9f44f495aa69a6df0b46234342e96290146a60a",
+      "host": "keybase.io",
+      "kid": "01208a36b2e719d58063fd7779b89ee9f44f495aa69a6df0b46234342e96290146a60a",
+      "uid": "6e366d665d5deb835a742f8388b29f19",
+      "username": "daveroverts"
+    },
+    "merkle_root": {
+      "ctime": 1548523521,
+      "hash": "88ee3c6f009819069c403972df3c09f2aaa1a8aa6fbab742bab29f2480a944c60ab8033d4acf231c6d81678c0023b1451649ed401e52a3ccf21a6a9c9c4a9bf0",
+      "hash_meta": "690bdbfc679c84a6293e8d0ecd63766fe6263545b0182b0893737d2605adc0f1",
+      "seqno": 4626509
+    },
+    "service": {
+      "entropy": "gal4ufmwiL/6LO+GSWqSUO+7",
+      "hostname": "daveroverts.nl",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.13.2"
+  },
+  "ctime": 1548523544,
+  "expire_in": 504576000,
+  "prev": "150e1975f9f5e1a6aa87c21b22f6d5af66f07fd59dee623fc9973bd603e4a856",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgijay5xnVgGP9d3m4nun0T0lapppt8LRiNDQulikBRqYKp3BheWxvYWTESpcCDsQgFQ4Zdfn14aaqh8IbIvbVr2bwf9Wd7mI/yZc71gPkqFbEIBcNC74dth8OIlQqiSTiIcMeLCKly6NNC9B+TXO9QgP1AgHCo3NpZ8RAWGrC/CPMk1v5zfGkBSeqraEFOvd9dPU3gn6GSo0jCenLABmLWffcHi0tKOlH8HwBQVPRKWcUmtyeCn5mcBIEDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIENRe+55NbDzivIaSNRFGOTqRue+zoUqLFcsFRx2s3GEo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/daveroverts
+
+==================================================================
