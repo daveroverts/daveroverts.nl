@@ -2,6 +2,16 @@
   "name": "daveroverts.nl",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Dave Roverts",
+    "email": "me@daveroverts.nl",
+    "url": "https://daveroverts.nl"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daveroverts/daveroverts.nl.git"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -10,6 +20,7 @@
   },
   "dependencies": {
     "next": "11.0.1",
+    "preact": "^10.5.14",
     "react": "17.0.2",
     "react-dom": "17.0.2"
   },
