@@ -17,7 +17,7 @@ export default function Page({ mdxSource, frontMatter }) {
             {frontMatter.description && (
               <p className="py-5">{frontMatter.description}</p>
             )}
-          <article className="prose lg:prose-xl">
+          <article className="prose lg:prose-xl max-w-none">
             <MDXRemote {...mdxSource} />
           </article>
         </div>
