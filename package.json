@@ -33,6 +33,9 @@
     "preact": "^10.5.14",
     "react": "17.0.2",
     "react-dom": "17.0.2",
+    "remark-autolink-headings": "^6.1.0",
+    "remark-slug": "^6.1.0",
+    "remark-toc": "^7.2.0",
     "sharp": "^0.28.3"
   },
   "devDependencies": {
