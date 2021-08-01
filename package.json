@@ -20,13 +20,23 @@
   },
   "dependencies": {
     "@heroicons/react": "^1.0.2",
+    "@plaiceholder/next": "^2.1.0",
+    "@tailwindcss/typography": "^0.4.1",
+    "date-fns": "^2.23.0",
+    "gray-matter": "^4.0.3",
     "next": "11.0.1",
+    "next-mdx-remote": "^3.0.4",
     "next-seo": "^4.26.0",
     "next-themes": "^0.0.15",
     "nightwind": "^1.1.12",
+    "plaiceholder": "^2.0.1",
     "preact": "^10.5.14",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "remark-autolink-headings": "^6.1.0",
+    "remark-slug": "^6.1.0",
+    "remark-toc": "^7.2.0",
+    "sharp": "^0.28.3"
   },
   "devDependencies": {
     "autoprefixer": "^10.3.1",

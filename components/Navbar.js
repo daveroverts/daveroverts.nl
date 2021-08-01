@@ -10,6 +10,14 @@ export const Navbar = () => {
     {
       label: "Flight Sim Blog",
       href: "https://fs.daveroverts.nl"
+    },
+    {
+      label: "Privacy Policy",
+      href: "/privacy"
+    },
+    {
+      label: "Cookie Policy",
+      href: "/cookie"
     }
   ];
 
