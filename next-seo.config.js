@@ -3,7 +3,7 @@ const titleTemplate = `%s | ${title}`
 const defaultTitle = title
 const description =
     'Personal portfolio for Dave Roverts, Web developer from the Netherlands'
-const url = 'https://daveroverts.nl'
+const url = 'https://www.daveroverts.nl'
 
 const SEO = {
     title,

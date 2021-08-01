@@ -1,11 +1,11 @@
 {
-  "name": "daveroverts.nl",
+  "name": "www.daveroverts.nl",
   "version": "0.1.0",
   "private": true,
   "author": {
     "name": "Dave Roverts",
     "email": "me@daveroverts.nl",
-    "url": "https://daveroverts.nl"
+    "url": "https://www.daveroverts.nl"
   },
   "license": "MIT",
   "repository": {
@@ -20,7 +20,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "@heroicons/react": "^1.0.2",
+    "@heroicons/react": "^1.0.3",
     "@plaiceholder/next": "^2.1.0",
     "@tailwindcss/typography": "^0.4.1",
     "date-fns": "^2.23.0",
@@ -41,10 +41,10 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.3.1",
-    "eslint": "^7.31.0",
+    "eslint": "^7.32.0",
     "eslint-config-next": "^11.0.1",
-    "husky": "^7.0.0",
-    "postcss": "^8.3.5",
-    "tailwindcss": "^2.2.4"
+    "husky": "^7.0.1",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.7"
   }
 }
