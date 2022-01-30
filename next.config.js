@@ -2,10 +2,10 @@ const { withPlaiceholder } = require('@plaiceholder/next')
 
 const ContentSecurityPolicy = `
   default-src 'self';
-  script-src 'self' 'unsafe-eval' 'unsafe-inline' vitals.vercel-insights.com static.cloudflareinsights.com;
+  script-src 'self' 'unsafe-eval' 'unsafe-inline' vitals.vercel-insights.com static.cloudflareinsights.com ${process.env.NEXT_PUBLIC_FATHOM_URL};
   child-src 'self';
   style-src 'self' 'unsafe-inline';
-  img-src * blob: data:;
+  img-src * blob: data: ${process.env.NEXT_PUBLIC_FATHOM_URL};
   media-src 'none';
   connect-src 'self' cloudflareinsights.com;
   font-src 'self';
