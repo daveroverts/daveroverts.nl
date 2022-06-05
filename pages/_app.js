@@ -8,16 +8,13 @@ function MyApp({ Component, pageProps }) {
   useAnalytics();
 
   return (
-    <>
-      <ThemeProvider
-        attribute="class"
-        storageKey="nightwind-mode"
-        defaultTheme="system"
-      >
-        <DefaultSeo {...SEO} />
-        <Component {...pageProps} />
-      </ThemeProvider>
-    </>
+    <ThemeProvider
+      attribute="class"
+      defaultTheme="system"
+    >
+      <DefaultSeo {...SEO} />
+      <Component {...pageProps} />
+    </ThemeProvider>
   )
 }
 
