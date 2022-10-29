@@ -51,8 +51,8 @@ export const Navbar = () => {
             <Link
               key={item.label}
               href={item.href}
-            >
-              <a className="px-3 py-2 bg-gray-100 rounded-md hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 dark:text-white">{item.label}</a>
+              className="px-3 py-2 bg-gray-100 rounded-md hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 dark:text-white">
+              {item.label}
             </Link>
           ))}
         </div>
@@ -61,8 +61,8 @@ export const Navbar = () => {
             <Link
               key={item.label}
               href={item.href}
-            >
-              <a className="px-3 py-2 bg-gray-100 rounded-md hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 dark:text-white">{item.label}</a>
+              className="px-3 py-2 bg-gray-100 rounded-md hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 dark:text-white">
+              {item.label}
             </Link>
           ))}
         </div>
