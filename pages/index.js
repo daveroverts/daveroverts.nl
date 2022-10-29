@@ -10,7 +10,9 @@ export default function Index() {
       <NextSeo title={title} />
       <Layout title="Handjes! Handjes! Bloemetjesgordijn!">
         <div className="py-5 text-center">
+        <div className="flex flex-row items-center justify-center">
           <Image src={security_advice} alt="Security advice" />
+        </div>
           {/* <h3 className="text-2xl font-bold">Latest posts</h3>
           <div className="grid space-x-2 lg:grid-cols-2">
 
