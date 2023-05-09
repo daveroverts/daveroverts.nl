@@ -22,7 +22,7 @@
   "dependencies": {
     "@heroicons/react": "2.0.17",
     "@plaiceholder/next": "2.5.0",
-    "date-fns": "2.29.3",
+    "date-fns": "2.30.0",
     "fathom-client": "3.5.0",
     "gray-matter": "4.0.3",
     "next": "13.3.0",
