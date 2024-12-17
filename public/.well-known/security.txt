@@ -1,0 +1,4 @@
+Contact: mailto:me@daveroverts.nl
+Expires: 2025-12-17T23:59:00Z
+Canonical: https://www.daveroverts.nl/.well-known/.security.txt
+Preferred-Languages: en, nl
