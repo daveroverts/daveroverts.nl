@@ -20,7 +20,7 @@
     "prepare": "husky"
   },
   "dependencies": {
-    "@heroicons/react": "2.1.5",
+    "@heroicons/react": "2.2.0",
     "@plaiceholder/next": "2.5.0",
     "date-fns": "4.1.0",
     "fathom-client": "3.7.2",
